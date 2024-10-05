@@ -1,0 +1,8 @@
+[
+{
+"version" : "1.0", "update" : "update","update_link" : "playstorelink",
+"interads" : "open", "interads_link" : "link", "interads_image" : "image",
+"banner1" : "open", "banner1_link" : "link", "banner1_image" : "image",
+"banner2" : "open", "banner2_link" : "link", "banner2_image" : "image",
+}
+]
