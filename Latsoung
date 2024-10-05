@@ -2,5 +2,5 @@
 {"daily_image" : "image"},
 {"week_image" : "image"},
 {"3d_image" : "image"},
-{"week_card" : "image"}
+{"week_card" : "https://raw.githubusercontent.com/Myanmar2D3D/Myanmar2D3D/refs/heads/main/week_latsoungcard"}
 ]
