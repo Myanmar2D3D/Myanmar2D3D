@@ -1,9 +1,9 @@
 [
 {
 "version" : "1.0", "update" : "update","update_link" : "playstorelink",
-"interads" : "open", "interads_link" : "https://bit.ly/3XVOloS", "interads_image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4Db2Q8erIWGNDH40HiX6av1K_CTB7HvfM4YLVsrRXJaWuEFp0xUdn3-xlHNfuJOAJUY8O2yLycH5c5INTFfOHNbSRvVBl75CNR6YJtqARRTo7BKBvdVUZpZ40hJaH1QK1iq5CXWq2FQknQRI8GmCQCzNmNlZiqPlGS-o62xVKxuIUqPn70FZfVRuLFKc/s575/575x275-ADS.gif",
-"banner1" : "open", "banner1_link" : "https://bit.ly/3XVOloS", "banner1_image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZQXI7UOEHo-EDWsruRM0zgTto-oHDLn861EKsSDpjJq9Tzm4sY-34apRMxlLjvFq5fj_RL0kv_w6qMrrT8plQGhOTwejS2TwE5y77sPaHNsBX0nFZPUsWIX2ZTX-aYU-6ERTv1n1djIcXi6irJVUXyRUZEH-sUCRK5I39diNKkdISzowAsh2SchlpzZk/s575/ADS-(575x275)(24-08-24).gif",
-"banner2" : "open", "banner2_link" : "https://bit.ly/3XVOloS", "banner2_image" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZQXI7UOEHo-EDWsruRM0zgTto-oHDLn861EKsSDpjJq9Tzm4sY-34apRMxlLjvFq5fj_RL0kv_w6qMrrT8plQGhOTwejS2TwE5y77sPaHNsBX0nFZPUsWIX2ZTX-aYU-6ERTv1n1djIcXi6irJVUXyRUZEH-sUCRK5I39diNKkdISzowAsh2SchlpzZk/s575/ADS-(575x275)(24-08-24).gif",
+"interads" : "open", "interads_link" : "", "interads_image" : "",
+"banner1" : "open", "banner1_link" : "", "banner1_image" : "",
+"banner2" : "open", "banner2_link" : "", "banner2_image" : "",
 "homeapi" : "https://mm2dpro.com/Api/api.txt",
 "twodapi" : "https://mm2dpro.com/Api/2D_History.json",
 "threedapi" : "https://mm2dpro.com/Api/3D_History.json",
