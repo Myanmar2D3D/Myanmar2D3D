@@ -1,7 +1,7 @@
 [
 {
 "version" : "1.0", "update" : "update","update_link" : "playstorelink",
-"interads" : "open", "interads_link" : "", "interads_image" : "",
+"interads" : "close", "interads_link" : "", "interads_image" : "",
 "banner1" : "open", "banner1_link" : "", "banner1_image" : "",
 "banner2" : "open", "banner2_link" : "", "banner2_image" : "",
 "homeapi" : "https://mm2dpro.com/Api/api.txt",
